@@ -1,0 +1,16 @@
+TimeTable:
+November 15th: Reading on Neural Nets - 4 hours
+November 16th: Reading on Neural Nets + implementation of algorithms - 7 hours
+November 17th: Debugging Neural Net and implementing image processing - 4 hours
+November 18th: Continue to debug neural net as well as continue image processing - 3 hours
+November 19th: Start on alternate training sample for neural net - 6 hours
+November 20th: Debugging trainging sample and starting on superscript functionality - 7 hours
+November 21st: work start on graphics user interface with buttons - 4 hours  
+November 22nd: continue to improve on gui and added camera functionality - 6 hours
+November 23rd: implementing secondary filter on OCR system - 4 hours
+November 24th: rest day
+November 25th: Wrote new training sample and trained new neural network - 6 hours
+December 1st: bugfixing - 3 hours
+December 2nd: bugfixing and video recording - 3 hours
+December 3rd: Additional features added as well as additional recording and final touches - 2 hours
+Total Time: 59 hours
